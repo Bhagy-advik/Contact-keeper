@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://bhagya_advik:advik@2018@cluster0.eaprr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://bhagya_advik:advik@2018@cluster0.eaprr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" :  "secret"
 }
